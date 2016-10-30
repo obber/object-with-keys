@@ -1,0 +1,26 @@
+{
+  "name": "object-with-keys",
+  "version": "1.0.0",
+  "description": "Turn an array of string values into an object with the string values as keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obber/object-with-keys.git"
+  },
+  "keywords": [
+    "object",
+    "from",
+    "array",
+    "of",
+    "keys"
+  ],
+  "author": "\"Kan Adachi <kan@kanadachi.com> (http://kanadachi.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obber/object-with-keys/issues"
+  },
+  "homepage": "https://github.com/obber/object-with-keys#readme"
+}
